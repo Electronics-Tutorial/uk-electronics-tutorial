@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkelectronics_tutorial=self.webpackChunkelectronics_tutorial||[]).push([[1903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/uk-electronics-tutorial/blog","blogTitle":"Blog","authorsListPath":"/uk-electronics-tutorial/blog/authors"}')}}]);
