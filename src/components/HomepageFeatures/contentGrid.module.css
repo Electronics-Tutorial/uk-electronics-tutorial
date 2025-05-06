@@ -1,0 +1,37 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 0.4rem 8rem;
+    
+  }
+  
+  .section {
+    display: flex;
+    justify-content: center; /* Центрує .grid горизонтально */
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+  }
+
+  .sectionTitle {
+    text-align: left;
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    
+  }
+
+  .itemNumber {
+    color: #114563; /* синій або свій */
+    font-weight: bold;
+    margin-right: 0.5rem;
+    font-size: 1.1rem;
+  }
+
+  .bottomLine {
+    width: 100%;
+    height: 2px;
+    background-color: #114563;
+    margin-top: 2rem;
+  }
+  
+  
